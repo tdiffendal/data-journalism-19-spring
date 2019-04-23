@@ -83,8 +83,10 @@ When you do request the database, you will ask for a waiver of fees in any writt
 
 The [link for Memo 3 Forum Post on ELMS is here](https://umd.instructure.com/courses/1259604/discussion_topics/3610522).
 
-**MEMO 3 FORUM POST and Project Log Link Due at start of Session 17**
-Memo 3 (250 words as a forum post) is due, describing any updated contacts you have with agency officials after you have submitted your letter, including any verbal or written responses by the agency.  You should include an updated copy of your contact log.   
+**MEMO 4 FORUM POST and Project Log Link Due at start of Session 17**
+Memo 4 (250 words as a forum post) is due, describing any updated contacts you have with agency officials after you have submitted your letter, including any verbal or written responses by the agency.  You should include an updated copy of your contact log.   
+
+The [link for Memo 4 Forum Post on ELMS is here](https://umd.instructure.com/courses/1259604/discussion_topics/3622986).
 
 **PRESENTATION During Class Session 25 or 26**  
 You will make a verbal presentation to the class (10-12 minutes) on your project. During the presentations, we will discuss your experiences and what steps might help to pry the data from reluctant gatekeepers.  You should include the following elements.
@@ -94,8 +96,7 @@ You will make a verbal presentation to the class (10-12 minutes) on your project
 * About the negotiation: Tell us about your contacts with the agency. Did officials put up barriers to access or accommodate you? Did they object to releasing the data in electronic form? What was the outcome?
 * Looking ahead: If you have not obtained the data, what steps would you or someone else need to take to perfect the request?
 * Lessons learned: What did you learn from this project that you might be able to apply to future reporting efforts and that would be useful for other students to know?  Did you learn anything about yourself? Your insights here are an important feature of the assignment.
+* **Please prepare a slide deck of between 6 and 12 slides that hits all of the above points.**
 
-Please prepare a slide deck of between 6 and 12 slides.
-
-**MEMO 4 FORUM POST and Project Log Link Due at start of Session 25**
-Memo 4 (1,000 words) is due as a forum post, a written project report that describes in detail your efforts to get the database, including all of the elements covered in your verbal presentation. You should also include your completed project log, copies of significant written correspondence with the agency, any documentation and (if you obtained it) a copy of the database, and your presentation slide deck.
+**MEMO 5 FORUM POST and Project Log Link Due at start of Session 25**
+Memo 5 (1,000 words) is due as a forum post, a written project report that describes in detail your efforts to get the database, including all of the elements covered in your verbal presentation. You should also include your completed project log, copies of significant written correspondence with the agency, any documentation and (if you obtained it) a copy of the database, and your presentation slide deck.
